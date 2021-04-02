@@ -1,0 +1,33 @@
+.calculator-form {
+  .result-group {
+    text-align: center;
+    color: #fff;
+    padding: 1rem;
+    border: 1px solid white;
+    border-radius: 1rem;
+
+    .result-headline {
+      display: block;
+      font-weight: normal;
+      font-size: 1.25rem;
+      line-height: 1;
+    }
+
+    .result-bmi {
+      display: block;
+      font-size: 2rem;
+      line-height: 1.2;
+      font-weight: bold;
+    }
+
+    .result-text {
+      display: block;
+      font-size: 1rem;
+      line-height: 1;
+    }
+
+    .result-bmi {
+      margin-right: 0.25rem;
+    }
+  }
+}
